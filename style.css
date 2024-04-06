@@ -146,13 +146,11 @@ main{
     padding-top: 5%;
 }
 .main-div{
-    border: solid 2.5px rgb(9, 199, 174) ; 
     /* height: 572px; */
     margin-left: 3%;
     margin-right: 3%;
 }
 .main-section{
-    border: solid 2.5px rgb(199, 9, 199) ; 
     display: flex;
     gap: 10px;
 }

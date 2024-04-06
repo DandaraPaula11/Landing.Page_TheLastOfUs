@@ -213,6 +213,10 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-decoration: none;  
+    outline: none;
+    border: none;
+    cursor: pointer;
 }
 .section-div2-infos-sinope{
     margin-top: 8%; 

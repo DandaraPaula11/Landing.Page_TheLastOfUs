@@ -161,7 +161,6 @@ main{
 }
 /*div 1 - banner****************/
 .section-div1-banner{
-    border: solid 2.5px rgb(167, 192, 26) ;
     display: flex;
     justify-content: center;
     align-items: center;
